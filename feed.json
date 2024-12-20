@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DNB Surgery",
+    "description": "",
+    "home_page_url": "https://dnbsurgery.com",
+    "feed_url": "https://dnbsurgery.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+    ]
+}
